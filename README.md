@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alisher</h1>
-<h3 align="center">Frontend Web Developer from Karakalpakistan</h3>
+<h3 align="center"> Frontend Web Developer from Karakalpakistan </h3>
 
 - 🌱 I’m currently learning **React.js**
 
