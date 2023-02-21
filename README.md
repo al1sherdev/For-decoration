@@ -1,3 +1,4 @@
+![logo](https://github.com/al1sherdev/For-decoration/blob/master/bg.png)
 <h1 align="center">Hi 👋, I'm Alisher</h1>
 <h3 align="center"> Frontend Web Developer from Karakalpakistan </h3>
 
